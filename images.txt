@@ -8,3 +8,4 @@ mysql:8.0.39-debian
 nacos/nacos-server:v2.4.0.1
 bitnami/redis:latest
 oraclelinux:9-slim-fips
+centos:centos7.9.2009
